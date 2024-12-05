@@ -341,3 +341,4 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 *更换域名 添加gemini密钥*
 *更新密钥*
 *添加密钥*
+*添加密钥*
