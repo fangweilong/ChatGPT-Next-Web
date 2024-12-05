@@ -336,4 +336,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 
 [MIT](https://opensource.org/license/mit/)
 
-*提交 部署 更换域名*
+*部署 *
+*更换域名*
+*更换域名 添加gemini密钥*
