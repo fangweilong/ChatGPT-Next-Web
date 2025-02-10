@@ -380,3 +380,4 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 *添加密钥*
 *添加密钥*
 *更新deepseek*
+*添加硅基流动*
